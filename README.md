@@ -216,12 +216,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
 
-**Built with ❤️ by [Sahand Ghavidel](https://github.com/sahandghavidel)**
-
-🌟 **Star this repo if you found it helpful!** 🌟
-
-**Visit [100jsprojects.com](https://100jsprojects.com) for more amazing projects!**
-
-</div>
