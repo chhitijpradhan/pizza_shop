@@ -1,4 +1,4 @@
-# 🍕 Next Pizza Shop
+# 🍕 Pizza Shop
 
 A modern, full-featured e-commerce pizza ordering application built with Next.js 15, TypeScript, and OneEntry CMS. Experience the perfect blend of delicious pizzas and cutting-edge web technology!
 
@@ -47,8 +47,8 @@ A modern, full-featured e-commerce pizza ordering application built with Next.js
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/sahandghavidel/next-pizza-shop.git
-   cd next-pizza-shop
+   git clone https://github.com/sahandghavidel/pizza-shop.git
+   cd pizza-shop
    ```
 
 2. **Install dependencies**
@@ -71,13 +71,11 @@ A modern, full-featured e-commerce pizza ordering application built with Next.js
    npm run dev
    ```
 
-5. **Open your browser**
-   Navigate to [http://localhost:3000](http://localhost:3000) to see the magic! 🎉
 
 ## 📁 Project Structure
 
 ```
-next-pizza-shop/
+pizza-shop/
 ├── actions/               # Server actions for data fetching
 │   ├── auth/             # Authentication actions
 │   └── catalog/          # Product catalog actions
@@ -165,41 +163,6 @@ This project showcases modern web development principles:
 - **User Experience**: Intuitive interface with smooth interactions
 - **Scalability**: Modular architecture for easy expansion
 
-## 🚀 Deployment
-
-### Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Connect your repository to [Vercel](https://vercel.com)
-3. Add environment variables in Vercel dashboard
-4. Deploy automatically on every push!
-
-### Other Platforms
-
-- **Netlify**: Works seamlessly with static exports
-- **Railway**: Great for full-stack applications
-- **DigitalOcean**: App Platform deployment
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📚 Learn More
-
-Want to build amazing projects like this? Check out **[100jsprojects.com](https://100jsprojects.com)** for:
-
-🎯 **100+ JavaScript Projects** - From beginner to advanced  
-💻 **Complete Source Code** - Download and learn from real projects  
-📖 **Step-by-Step Tutorials** - Detailed guides and explanations  
-🚀 **Modern Tech Stack** - React, Next.js, TypeScript, and more  
-🎨 **Beautiful Designs** - UI/UX best practices and modern layouts  
-🔧 **Production Ready** - Deploy-ready applications with best practices
 
 Transform your coding skills with hands-on projects that matter!
 
